@@ -1,0 +1,23 @@
+[
+  {
+    "id": 300,
+    "title": "턴백 일자핏 데님 팬츠",
+    "filter": "bottom",
+    "price": 179000,
+    "count": 1
+  },
+  {
+    "id": 301,
+    "title": "슬림부츠컷 데님 팬츠",
+    "filter": "bottom",
+    "price": 159000,
+    "count": 1
+  },
+  {
+    "id": 302,
+    "title": "코튼 볼륨 스커트",
+    "filter": "bottom",
+    "price": 199000,
+    "count": 1
+  }
+]
