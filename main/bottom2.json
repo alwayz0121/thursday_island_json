@@ -1,23 +1,26 @@
 [
   {
-    "id": 303,
+    "id": 304,
     "title": "숏기장 팬츠",
     "filter": "bottom",
     "price": 139000,
-    "count": 1
-  },
-  {
-    "id": 304,
-    "title": "H라인 데님 스커트",
-    "filter": "bottom",
-    "price": 159000,
-    "count": 1
+    "count": 1,
+    "url": "https://alwayz0121.github.io/thursday_island_json/img/bottom/bottom304.jpg"
   },
   {
     "id": 305,
+    "title": "H라인 데님 스커트",
+    "filter": "bottom",
+    "price": 159000,
+    "count": 1,
+    "url": "https://alwayz0121.github.io/thursday_island_json/img/bottom/bottom305.jpg"
+  },
+  {
+    "id": 306,
     "title": "숏기장 팬츠",
     "filter": "bottom",
     "price": 139000,
-    "count": 1
+    "count": 1,
+    "url": "https://alwayz0121.github.io/thursday_island_json/img/bottom/bottom306.jpg"
   }
 ]

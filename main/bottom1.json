@@ -1,23 +1,26 @@
 [
   {
-    "id": 300,
+    "id": 301,
     "title": "턴백 일자핏 데님 팬츠",
     "filter": "bottom",
     "price": 179000,
-    "count": 1
-  },
-  {
-    "id": 301,
-    "title": "슬림부츠컷 데님 팬츠",
-    "filter": "bottom",
-    "price": 159000,
-    "count": 1
+    "count": 1,
+    "url": "https://alwayz0121.github.io/thursday_island_json/img/bottom/bottom301.jpg"
   },
   {
     "id": 302,
+    "title": "슬림부츠컷 데님 팬츠",
+    "filter": "bottom",
+    "price": 159000,
+    "count": 1,
+    "url": "https://alwayz0121.github.io/thursday_island_json/img/bottom/bottom302.jpg"
+  },
+  {
+    "id": 303,
     "title": "코튼 볼륨 스커트",
     "filter": "bottom",
     "price": 199000,
-    "count": 1
+    "count": 1,
+    "url": "https://alwayz0121.github.io/thursday_island_json/img/bottom/bottom303.jpg"
   }
 ]

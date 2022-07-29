@@ -1,17 +1,20 @@
 [
   {
-    "id": 6,
-    "title": "lookbook6",
-    "content": "lookbook6"
+    "id": 3,
+    "title": "lookbook3",
+    "content": "lookbook3",
+    "url": "https://alwayz0121.github.io/thursday_island_json/img/lookbook/lookbook3.jpg"
   },
   {
-    "id": 7,
-    "title": "lookbook7",
-    "content": "lookbook7"
+    "id": 4,
+    "title": "lookbook4",
+    "content": "lookbook4",
+    "url": "https://alwayz0121.github.io/thursday_island_json/img/lookbook/lookbook4.jpg"
   },
   {
-    "id": 8,
-    "title": "lookbook8",
-    "content": "lookbook8"
+    "id": 5,
+    "title": "lookbook5",
+    "content": "lookbook5",
+    "url": "https://alwayz0121.github.io/thursday_island_json/img/lookbook/lookbook5.jpg"
   }
 ]
